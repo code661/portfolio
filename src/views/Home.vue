@@ -39,6 +39,7 @@
 
       <h2>Devices</h2>
       <ul>
+        <li>iPhone 8 Gold</li>
         <li>Intel® NUC Kit NUC8I5BEK</li>
         <li>ThinkPad X1 Carbon 7th Gen</li>
         <li>Sony 1000XM3</li>
